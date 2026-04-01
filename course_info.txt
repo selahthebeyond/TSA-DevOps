@@ -1,0 +1,5 @@
+Course: DevOps Engineering
+Duration: 4 months
+Start Date: February 20th
+End Date: June 6th
+Tutor: Mr. Tobiloba
