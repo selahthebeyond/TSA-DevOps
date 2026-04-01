@@ -1,2 +1,0 @@
-Hey, my name is David Chizoba 'Selah'.
-I'm just learning version control with Git in my TSA class.
